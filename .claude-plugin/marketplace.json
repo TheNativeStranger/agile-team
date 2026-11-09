@@ -1,0 +1,8 @@
+{
+  "name": "agile-team-local",
+  "owner": { "name": "Ali Osman Akcaoglu" },
+  "metadata": { "description": "Private local marketplace." },
+  "plugins": [
+    { "name": "agile-team", "source": "./", "version": "0.1.0", "description": "Private architect-led delivery team." }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "agile-team",
+  "version": "0.1.0",
+  "description": "Private architect-led delivery team for Spring Boot and Kafka on OpenShift, with local draw.io diagrams.",
+  "author": { "name": "Ali Osman Akcaoglu" }
+}
