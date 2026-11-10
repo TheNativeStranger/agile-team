@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 982" role="img" aria-labelledby="t d">
+<title id="t">agile-team eklentisinin içi</title><desc id="d">Her ajanın araçları, bilgileri, betikleri ve ürettikleri; eklentinin dosya yapısı.</desc>
+<rect x="0.5" y="0.5" width="1239.0" height="981.0" rx="16" fill="#ffffff" stroke="#c9c9ce" stroke-width="1"/>
+<text x="620.0" y="42.0" text-anchor="middle" font-size="27" font-weight="400" style="font-family:Georgia,'Times New Roman',serif" fill="#1d1d20">Eklentinin İçi</text>
+<text x="620.0" y="64.0" text-anchor="middle" font-size="13" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">agile-team · hangi ajan, hangi araçla, ne yapıyor</text>
+<rect x="27.0" y="84.0" width="176.0" height="50.0" rx="8" fill="#2b2b30" stroke="#2b2b30" stroke-width="1"/>
+<text x="115.0" y="105.0" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#fff">Sen</text>
+<text x="115.0" y="122.0" text-anchor="middle" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#f3f3f5">konuyu yazarsın</text>
+<path d="M210.0 103l11 6l-11 6z" fill="#c8102e"/>
+<rect x="229.0" y="84.0" width="176.0" height="50.0" rx="8" fill="#fff" stroke="#c8102e" stroke-width="1"/>
+<text x="317.0" y="105.0" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">/agile-team:mimar</text>
+<text x="317.0" y="122.0" text-anchor="middle" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">commands/mimar.md</text>
+<path d="M412.0 103l11 6l-11 6z" fill="#c8102e"/>
+<rect x="431.0" y="84.0" width="176.0" height="50.0" rx="8" fill="#c8102e" stroke="#c8102e" stroke-width="1"/>
+<text x="519.0" y="105.0" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#fff">Çözüm Mimarı</text>
+<text x="519.0" y="122.0" text-anchor="middle" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#f3f3f5">ana oturum olur</text>
+<path d="M614.0 103l11 6l-11 6z" fill="#c8102e"/>
+<rect x="633.0" y="84.0" width="176.0" height="50.0" rx="8" fill="#fff" stroke="#c8102e" stroke-width="1"/>
+<text x="721.0" y="105.0" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Agent aracı</text>
+<text x="721.0" y="122.0" text-anchor="middle" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">işi uzmanlara verir</text>
+<path d="M816.0 103l11 6l-11 6z" fill="#c8102e"/>
+<rect x="835.0" y="84.0" width="176.0" height="50.0" rx="8" fill="#fff" stroke="#c8102e" stroke-width="1"/>
+<text x="923.0" y="105.0" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">5 yardımcı</text>
+<text x="923.0" y="122.0" text-anchor="middle" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">ayrı, temiz bağlamda çalışır</text>
+<path d="M1018.0 103l11 6l-11 6z" fill="#c8102e"/>
+<rect x="1037.0" y="84.0" width="176.0" height="50.0" rx="8" fill="#f1f1f3" stroke="#f1f1f3" stroke-width="1"/>
+<text x="1125.0" y="105.0" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">docs/architecture/</text>
+<text x="1125.0" y="122.0" text-anchor="middle" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">bütün çıktılar burada</text>
+<rect x="30.0" y="158.0" width="1180.0" height="34.0" rx="8" fill="#2b2b30" stroke="#2b2b30" stroke-width="1"/>
+<text x="42.0" y="180.0" text-anchor="start" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Ajan</text>
+<text x="586.0" y="180.0" text-anchor="start" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Bilgi (Skill)</text>
+<text x="808.0" y="180.0" text-anchor="start" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Betik · 0 token</text>
+<text x="942.0" y="180.0" text-anchor="start" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Ne üretir</text>
+<text x="248.0" y="180.0" text-anchor="middle" font-size="11" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Read</text>
+<text x="292.0" y="180.0" text-anchor="middle" font-size="11" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Grep</text>
+<text x="336.0" y="180.0" text-anchor="middle" font-size="11" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Glob</text>
+<text x="380.0" y="180.0" text-anchor="middle" font-size="11" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Write</text>
+<text x="424.0" y="180.0" text-anchor="middle" font-size="11" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Edit</text>
+<text x="468.0" y="180.0" text-anchor="middle" font-size="11" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Bash</text>
+<text x="512.0" y="180.0" text-anchor="middle" font-size="11" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Skill</text>
+<text x="556.0" y="180.0" text-anchor="middle" font-size="11" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Agent</text>
+<rect x="30.0" y="192.0" width="1180.0" height="72.0" rx="0" fill="#fff5f6" stroke="#c9c9ce" stroke-width="1"/>
+<text x="42.0" y="222.0" text-anchor="start" font-size="13.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#c8102e">Çözüm Mimarı</text>
+<text x="42.0" y="240.0" text-anchor="start" font-size="10.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Opus · solution-architect</text>
+<circle cx="248.0" cy="228.0" r="8.5" fill="#c8102e"/><path d="M244.0 228.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="292.0" cy="228.0" r="8.5" fill="#c8102e"/><path d="M288.0 228.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="336.0" cy="228.0" r="8.5" fill="#c8102e"/><path d="M332.0 228.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="380.0" cy="228.0" r="8.5" fill="#c8102e"/><path d="M376.0 228.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="424.0" cy="228.0" r="8.5" fill="#c8102e"/><path d="M420.0 228.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="468.0" cy="228.0" r="8.5" fill="#c8102e"/><path d="M464.0 228.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="512.0" cy="228.0" r="8.5" fill="#c8102e"/><path d="M508.0 228.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="556.0" cy="228.0" r="8.5" fill="#c8102e"/><path d="M552.0 228.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<text x="586.0" y="206.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">agile-team:architecture-work</text>
+<text x="586.0" y="219.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">engineering:architecture</text>
+<text x="586.0" y="232.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">engineering:system-design</text>
+<text x="586.0" y="245.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">engineering:documentation</text>
+<text x="586.0" y="258.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">agile-team:drawio</text>
+<text x="808.0" y="210.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#3f3f46">check-drawio.py</text>
+<text x="808.0" y="225.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#3f3f46">check-package.py</text>
+<text x="808.0" y="240.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#3f3f46">read-input.py</text>
+<text x="942.0" y="224.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Grooming kaydı, karar matrisi, ADR, mimari</text>
+<text x="942.0" y="239.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">çizim, HLD</text>
+<rect x="30.0" y="264.0" width="1180.0" height="72.0" rx="0" fill="#ffffff" stroke="#c9c9ce" stroke-width="1"/>
+<text x="42.0" y="294.0" text-anchor="start" font-size="13.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Solution Designer</text>
+<text x="42.0" y="312.0" text-anchor="start" font-size="10.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Sonnet · solution-designer</text>
+<circle cx="248.0" cy="300.0" r="8.5" fill="#c8102e"/><path d="M244.0 300.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="292.0" cy="300.0" r="8.5" fill="#c8102e"/><path d="M288.0 300.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="336.0" cy="300.0" r="8.5" fill="#c8102e"/><path d="M332.0 300.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="380.0" cy="300.0" r="8.5" fill="#c8102e"/><path d="M376.0 300.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="424.0" cy="300.0" r="8.5" fill="#c8102e"/><path d="M420.0 300.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="468.0" cy="300.0" r="8.5" fill="#c8102e"/><path d="M464.0 300.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="512.0" cy="300.0" r="8.5" fill="#c8102e"/><path d="M508.0 300.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="556.0" cy="300.0" r="4" fill="#e3e3e7"/>
+<text x="586.0" y="304.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">agile-team:drawio</text>
+<text x="808.0" y="289.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#3f3f46">check-drawio.py</text>
+<text x="808.0" y="304.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#3f3f46">merge-lld.py</text>
+<text x="942.0" y="296.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">UML tasarım çizimleri. LLD: kapsam, API,</text>
+<text x="942.0" y="311.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">veri, akış, güvenlik; birleşen belge</text>
+<rect x="30.0" y="336.0" width="1180.0" height="72.0" rx="0" fill="#fafafb" stroke="#c9c9ce" stroke-width="1"/>
+<text x="42.0" y="366.0" text-anchor="start" font-size="13.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Java Uzmanı</text>
+<text x="42.0" y="384.0" text-anchor="start" font-size="10.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Sonnet · java-expert</text>
+<circle cx="248.0" cy="372.0" r="8.5" fill="#c8102e"/><path d="M244.0 372.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="292.0" cy="372.0" r="8.5" fill="#c8102e"/><path d="M288.0 372.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="336.0" cy="372.0" r="8.5" fill="#c8102e"/><path d="M332.0 372.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="380.0" cy="372.0" r="8.5" fill="#c8102e"/><path d="M376.0 372.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="424.0" cy="372.0" r="4" fill="#e3e3e7"/>
+<circle cx="468.0" cy="372.0" r="4" fill="#e3e3e7"/>
+<circle cx="512.0" cy="372.0" r="8.5" fill="#c8102e"/><path d="M508.0 372.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="556.0" cy="372.0" r="4" fill="#e3e3e7"/>
+<text x="586.0" y="376.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">Java/Spring (kurulursa)</text>
+<text x="808.0" y="376.0" text-anchor="start" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">yok</text>
+<text x="942.0" y="368.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Grooming görüşü, çaba. LLD: servis ve modül</text>
+<text x="942.0" y="383.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">yapısı, yapılandırma, uygulama adımları</text>
+<rect x="30.0" y="408.0" width="1180.0" height="72.0" rx="0" fill="#ffffff" stroke="#c9c9ce" stroke-width="1"/>
+<text x="42.0" y="438.0" text-anchor="start" font-size="13.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Kafka Uzmanı</text>
+<text x="42.0" y="456.0" text-anchor="start" font-size="10.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Sonnet · kafka-expert</text>
+<circle cx="248.0" cy="444.0" r="8.5" fill="#c8102e"/><path d="M244.0 444.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="292.0" cy="444.0" r="8.5" fill="#c8102e"/><path d="M288.0 444.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="336.0" cy="444.0" r="8.5" fill="#c8102e"/><path d="M332.0 444.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="380.0" cy="444.0" r="8.5" fill="#c8102e"/><path d="M376.0 444.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="424.0" cy="444.0" r="4" fill="#e3e3e7"/>
+<circle cx="468.0" cy="444.0" r="4" fill="#e3e3e7"/>
+<circle cx="512.0" cy="444.0" r="8.5" fill="#c8102e"/><path d="M508.0 444.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="556.0" cy="444.0" r="4" fill="#e3e3e7"/>
+<text x="586.0" y="448.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">engineering:system-design</text>
+<text x="808.0" y="448.0" text-anchor="start" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">yok</text>
+<text x="942.0" y="440.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Grooming görüşü, çaba. LLD: topic ve olay</text>
+<text x="942.0" y="455.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">şemaları, hata ve yeniden deneme</text>
+<rect x="30.0" y="480.0" width="1180.0" height="72.0" rx="0" fill="#fafafb" stroke="#c9c9ce" stroke-width="1"/>
+<text x="42.0" y="510.0" text-anchor="start" font-size="13.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Test Uzmanı</text>
+<text x="42.0" y="528.0" text-anchor="start" font-size="10.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Sonnet · test-expert</text>
+<circle cx="248.0" cy="516.0" r="8.5" fill="#c8102e"/><path d="M244.0 516.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="292.0" cy="516.0" r="8.5" fill="#c8102e"/><path d="M288.0 516.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="336.0" cy="516.0" r="8.5" fill="#c8102e"/><path d="M332.0 516.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="380.0" cy="516.0" r="8.5" fill="#c8102e"/><path d="M376.0 516.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="424.0" cy="516.0" r="4" fill="#e3e3e7"/>
+<circle cx="468.0" cy="516.0" r="4" fill="#e3e3e7"/>
+<circle cx="512.0" cy="516.0" r="8.5" fill="#c8102e"/><path d="M508.0 516.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="556.0" cy="516.0" r="4" fill="#e3e3e7"/>
+<text x="586.0" y="520.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">engineering:testing-strategy</text>
+<text x="808.0" y="520.0" text-anchor="start" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">yok</text>
+<text x="942.0" y="520.0" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Grooming görüşü, çaba. LLD: test yaklaşımı</text>
+<rect x="30.0" y="552.0" width="1180.0" height="72.0" rx="0" fill="#ffffff" stroke="#c9c9ce" stroke-width="1"/>
+<text x="42.0" y="582.0" text-anchor="start" font-size="13.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">OpenShift Uzmanı</text>
+<text x="42.0" y="600.0" text-anchor="start" font-size="10.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Sonnet · openshift-expert</text>
+<circle cx="248.0" cy="588.0" r="8.5" fill="#c8102e"/><path d="M244.0 588.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="292.0" cy="588.0" r="8.5" fill="#c8102e"/><path d="M288.0 588.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="336.0" cy="588.0" r="8.5" fill="#c8102e"/><path d="M332.0 588.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="380.0" cy="588.0" r="8.5" fill="#c8102e"/><path d="M376.0 588.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="424.0" cy="588.0" r="4" fill="#e3e3e7"/>
+<circle cx="468.0" cy="588.0" r="4" fill="#e3e3e7"/>
+<circle cx="512.0" cy="588.0" r="8.5" fill="#c8102e"/><path d="M508.0 588.0l3 3l5 -6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle cx="556.0" cy="588.0" r="4" fill="#e3e3e7"/>
+<text x="586.0" y="592.0" text-anchor="start" font-size="10.5" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">engineering:deploy-checklist</text>
+<text x="808.0" y="592.0" text-anchor="start" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">yok</text>
+<text x="942.0" y="584.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Grooming görüşü, çaba. LLD: OpenShift</text>
+<text x="942.0" y="599.5" text-anchor="start" font-size="11.2" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">kaynakları, gözlemlenebilirlik</text>
+<rect x="30" y="192" width="1180" height="432" fill="none" stroke="#c9c9ce"/>
+<rect x="30.0" y="638.0" width="228.0" height="44.0" rx="8" fill="#f1f1f3" stroke="#f1f1f3" stroke-width="1"/>
+<text x="144.0" y="656.0" text-anchor="middle" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Read · Grep · Glob</text>
+<text x="144.0" y="672.0" text-anchor="middle" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">dosyaları okur, arar</text>
+<rect x="268.0" y="638.0" width="228.0" height="44.0" rx="8" fill="#f1f1f3" stroke="#f1f1f3" stroke-width="1"/>
+<text x="382.0" y="656.0" text-anchor="middle" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Write · Edit</text>
+<text x="382.0" y="672.0" text-anchor="middle" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">kuralı: yalnızca belge ve çizim</text>
+<rect x="506.0" y="638.0" width="228.0" height="44.0" rx="8" fill="#f1f1f3" stroke="#f1f1f3" stroke-width="1"/>
+<text x="620.0" y="656.0" text-anchor="middle" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Bash</text>
+<text x="620.0" y="672.0" text-anchor="middle" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">kuralı: yalnızca kontrol betikleri</text>
+<rect x="744.0" y="638.0" width="228.0" height="44.0" rx="8" fill="#f1f1f3" stroke="#f1f1f3" stroke-width="1"/>
+<text x="858.0" y="656.0" text-anchor="middle" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Skill</text>
+<text x="858.0" y="672.0" text-anchor="middle" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">gereken bilgiyi o an yükler</text>
+<rect x="982.0" y="638.0" width="228.0" height="44.0" rx="8" fill="#f1f1f3" stroke="#f1f1f3" stroke-width="1"/>
+<text x="1096.0" y="656.0" text-anchor="middle" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Agent</text>
+<text x="1096.0" y="672.0" text-anchor="middle" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">yalnızca Çözüm Mimarı iş dağıtır</text>
+<text x="30.0" y="708.0" text-anchor="start" font-size="17" font-weight="400" style="font-family:Georgia,'Times New Roman',serif" fill="#1d1d20">Eklentinin dosyaları</text>
+<rect x="30.0" y="722.0" width="190.0" height="168.0" rx="9" fill="#ffffff" stroke="#c8102e" stroke-width="1.2"/>
+<text x="43.0" y="746.0" text-anchor="start" font-size="13" font-weight="700" style="font-family:ui-monospace,Menlo,monospace" fill="#c8102e">.claude-plugin/</text>
+<text x="207.0" y="746.0" text-anchor="end" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Kimlik</text>
+<text x="43.0" y="769.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">plugin.json</text>
+<text x="43.0" y="784.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">marketplace.json</text>
+<text x="43.0" y="860.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Adı, sürümü ve yerel kurulum</text>
+<text x="43.0" y="874.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">bilgisi.</text>
+<rect x="235.0" y="722.0" width="260.0" height="168.0" rx="9" fill="#ffffff" stroke="#c8102e" stroke-width="1.2"/>
+<text x="248.0" y="746.0" text-anchor="start" font-size="13" font-weight="700" style="font-family:ui-monospace,Menlo,monospace" fill="#c8102e">agents/</text>
+<text x="482.0" y="746.0" text-anchor="end" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">6 rol</text>
+<text x="248.0" y="769.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">java-expert.md</text>
+<text x="248.0" y="784.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">kafka-expert.md</text>
+<text x="248.0" y="799.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">openshift-expert.md</text>
+<text x="248.0" y="814.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">solution-architect.md</text>
+<text x="248.0" y="829.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">solution-designer.md</text>
+<text x="248.0" y="844.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">test-expert.md</text>
+<text x="248.0" y="875.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Her rolün talimatı, modeli ve araç izni.</text>
+<rect x="510.0" y="722.0" width="170.0" height="168.0" rx="9" fill="#ffffff" stroke="#c8102e" stroke-width="1.2"/>
+<text x="523.0" y="746.0" text-anchor="start" font-size="13" font-weight="700" style="font-family:ui-monospace,Menlo,monospace" fill="#c8102e">commands/</text>
+<text x="667.0" y="746.0" text-anchor="end" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Giriş</text>
+<text x="523.0" y="769.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">mimar.md</text>
+<text x="523.0" y="860.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Çözüm Mimarı'nı bu</text>
+<text x="523.0" y="874.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">oturumda başlatır.</text>
+<rect x="695.0" y="722.0" width="300.0" height="168.0" rx="9" fill="#ffffff" stroke="#c8102e" stroke-width="1.2"/>
+<text x="708.0" y="746.0" text-anchor="start" font-size="13" font-weight="700" style="font-family:ui-monospace,Menlo,monospace" fill="#c8102e">skills/</text>
+<text x="982.0" y="746.0" text-anchor="end" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Bilgi</text>
+<text x="708.0" y="769.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">architecture-work/ (SKILL + 4 şablon)</text>
+<text x="708.0" y="784.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">drawio/ (yerel, Apache-2.0)</text>
+<text x="708.0" y="860.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Akış, HLD, LLD, ADR, karar matrisi ve çizim</text>
+<text x="708.0" y="874.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">kuralları.</text>
+<rect x="1010.0" y="722.0" width="200.0" height="168.0" rx="9" fill="#ffffff" stroke="#c8102e" stroke-width="1.2"/>
+<text x="1023.0" y="746.0" text-anchor="start" font-size="13" font-weight="700" style="font-family:ui-monospace,Menlo,monospace" fill="#c8102e">scripts/</text>
+<text x="1197.0" y="746.0" text-anchor="end" font-size="10.5" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">0 token</text>
+<text x="1023.0" y="769.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">check-docs.py</text>
+<text x="1023.0" y="784.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">check-drawio.py</text>
+<text x="1023.0" y="799.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">check-package.py</text>
+<text x="1023.0" y="814.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">merge-lld.py</text>
+<text x="1023.0" y="829.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-monospace,Menlo,monospace" fill="#1d1d20">read-input.py</text>
+<text x="1023.0" y="860.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Doküman okuma, birleştirme ve</text>
+<text x="1023.0" y="874.0" text-anchor="start" font-size="10.8" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">kontroller.</text>
+<rect x="30.0" y="904.0" width="585.0" height="56.0" rx="8" fill="#f1f1f3" stroke="#c9c9ce" stroke-width="1"/>
+<text x="44.0" y="926.0" text-anchor="start" font-size="12.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Dışarıdan kullandıkları</text>
+<text x="44.0" y="945.0" text-anchor="start" font-size="10.6" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Claude'un Engineering skill'leri: architecture, system-design, documentation, testing-strategy, deploy-checklist</text>
+<rect x="625.0" y="904.0" width="585.0" height="56.0" rx="8" fill="#ffffff" stroke="#a8a8b0" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="639.0" y="926.0" text-anchor="start" font-size="12.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Eklentide bilerek olmayanlar</text>
+<text x="639.0" y="945.0" text-anchor="start" font-size="10.6" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Hook yok · MCP yok · uzak sunucu yok · kod yazan ajan yok · Solution Manager pasif</text>
+</svg>
