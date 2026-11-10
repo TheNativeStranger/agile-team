@@ -1,17 +1,17 @@
 # agile-team
 
-Baş Mimar'ın özel danışma kurulu: HLD, LLD, ADR ve yerel draw.io çizimleri. Ortam: Spring Boot ve OpenShift üzerinde Kafka.
+Çözüm Mimarı'nın özel danışma kurulu: HLD, LLD, ADR ve yerel draw.io çizimleri. Ortam: Spring Boot ve OpenShift üzerinde Kafka.
 
 ![Mimari Ekip masası](assets/team-board.svg)
 
 Plan çizimi: [docs/architecture/ekip-plani.drawio](docs/architecture/ekip-plani.drawio)
 
 ## Ekip
-Bu ekip kod yazmaz. Baş Mimar'ın danışma kuruludur: neyi, nasıl ve ne ile yapacağımızı netleştirir, HLD, LLD, ADR ve çizimleri üretir.
+Bu ekip kod yazmaz. Çözüm Mimarı'nın danışma kuruludur: neyi, nasıl ve ne ile yapacağımızı netleştirir, HLD, LLD, ADR ve çizimleri üretir.
 
 | Rol | Ajan | Groomingden sonra yazdığı LLD bölümleri |
 |---|---|---|
-| Baş Mimar | `solution-architect` | Lider; karar matrisi, ADR, HLD, grooming kaydı |
+| Çözüm Mimarı | `solution-architect` | Lider; karar matrisi, ADR, HLD, grooming kaydı |
 | Solution Designer | `solution-designer` | Kapsam, API, veri modeli, akışlar, güvenlik, açık sorular; LLD editörü |
 | Java Uzmanı | `java-expert` | Servis ve modül yapısı, yapılandırma, uygulama adımları |
 | Kafka Uzmanı | `kafka-expert` | Topic ve olay şemaları, hata ve yeniden deneme |

@@ -1,6 +1,6 @@
 ---
 name: architecture-work
-description: "Mimari işin akışı: netleştirme, neyi-nasıl-ne ile kararı, HLD, LLD, çizim, danışma kurulu incelemesi. Baş Mimar her mimari konuda kullanır."
+description: "Mimari işin akışı: netleştirme, neyi-nasıl-ne ile kararı, HLD, LLD, çizim, danışma kurulu incelemesi. Çözüm Mimarı her mimari konuda kullanır."
 ---
 # Mimari iş akışı
 
@@ -20,7 +20,7 @@ Bütün çıktılar çalışılan klasörde `docs/architecture/` altında durur:
 2. **Neyi, nasıl, ne ile:** Karar matrisini doldur, seçenekleri karşılaştır, önerini yaz.
 3. **Onay:** Yönü kullanıcıya göster. Onay yoksa HLD yazılmaz.
 4. **HLD ve üst düzey çizimler:** Bağlam, bileşen, entegrasyon, dağıtım görünümleri. Gerekirse TOGAF'tan ilgili aşamayı ve ArchiMate görünümünü kullan.
-5. **Grooming:** Beş yardımcının hepsi aynı anda HLD'yi okur; görüş, risk, soru ve çaba söyler. Baş Mimar `grooming/<konu>.md` dosyasına birleştirir, çelişkileri karara bağlar. Kullanıcının kararı gereken nokta varsa sorar.
+5. **Grooming:** Beş yardımcının hepsi aynı anda HLD'yi okur; görüş, risk, soru ve çaba söyler. Çözüm Mimarı `grooming/<konu>.md` dosyasına birleştirir, çelişkileri karara bağlar. Kullanıcının kararı gereken nokta varsa sorar.
 6. **LLD bölümleri:** Herkes kendi bölümünü `lld/<konu>/parts/<rol>.md` dosyasına yazar.
 
    | Bölüm | Sahibi |
