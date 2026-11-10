@@ -1,18 +1,20 @@
 # agile-team
 
-Spring Boot ve OpenShift üzerinde Kafka projeleri için, Baş Mimar'ın yönettiği özel Claude Code ekibi.
+Baş Mimar'ın özel danışma kurulu: HLD, LLD, ADR ve yerel draw.io çizimleri. Ortam: Spring Boot ve OpenShift üzerinde Kafka.
 
 Plan çizimi: [docs/architecture/ekip-plani.drawio](docs/architecture/ekip-plani.drawio)
 
 ## Ekip
+Bu ekip kod yazmaz. Baş Mimar'ın danışma kuruludur: neyi, nasıl ve ne ile yapacağımızı netleştirir, HLD, LLD, ADR ve çizimleri üretir.
+
 | Rol | Ajan | İş |
 |---|---|---|
-| Baş Mimar | `solution-architect` | Ekibi yönetir, mimari kararlar, draw.io çizimleri |
-| Solution Designer | `solution-designer` | Sözleşmeler, şemalar, veri modeli |
-| Kafka Uzmanı | `kafka-expert` | Kafka incelemesi, yalnızca okur |
-| Java Developer | `java-developer` | Spring Boot kodu, kodu yalnızca o değiştirir |
-| QA Tester | `qa-tester` | Test yazar ve çalıştırır |
-| Operasyon | `ops-engineer` | OpenShift, dağıtım ve geri alma incelemesi |
+| Baş Mimar | `solution-architect` | Lider, HLD, ADR, üst düzey çizimler |
+| Solution Designer | `solution-designer` | LLD, ayrıntılı çizimler |
+| Java Uzmanı | `java-expert` | Uygulanabilirlik, teknoloji, çaba |
+| Kafka Uzmanı | `kafka-expert` | Olay tasarımı, Kafka ayarları |
+| Test Uzmanı | `test-expert` | Test edilebilirlik, ölçülebilirlik |
+| OpenShift Uzmanı | `openshift-expert` | Dağıtım, kapasite, işletim |
 
 ## Kurulum
 ```bash
@@ -28,7 +30,7 @@ claude plugin update agile-team@agile-team-local
 ```
 
 ## Kullanım
-Java projesinin klasöründe `/agile-team:mimar <iş tanımı>` yaz.
+Çalışma klasöründe `/agile-team:mimar <konu>` yaz. Çıktılar `docs/architecture/` altına yazılır.
 
 ## Gizlilik
 Depo özeldir. Çizimler yalnızca yerel `.drawio` dosyası olarak üretilir, uzak bir servise gönderilmez. Şirkete ait kod, müşteri verisi ve gizli anahtar bu depoya konmaz.
