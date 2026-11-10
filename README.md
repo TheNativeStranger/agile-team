@@ -2,6 +2,8 @@
 
 Baş Mimar'ın özel danışma kurulu: HLD, LLD, ADR ve yerel draw.io çizimleri. Ortam: Spring Boot ve OpenShift üzerinde Kafka.
 
+![Mimari Ekip masası](assets/team-board.svg)
+
 Plan çizimi: [docs/architecture/ekip-plani.drawio](docs/architecture/ekip-plani.drawio)
 
 ## Ekip
