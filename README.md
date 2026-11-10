@@ -7,14 +7,16 @@ Plan çizimi: [docs/architecture/ekip-plani.drawio](docs/architecture/ekip-plani
 ## Ekip
 Bu ekip kod yazmaz. Baş Mimar'ın danışma kuruludur: neyi, nasıl ve ne ile yapacağımızı netleştirir, HLD, LLD, ADR ve çizimleri üretir.
 
-| Rol | Ajan | İş |
+| Rol | Ajan | Groomingden sonra yazdığı LLD bölümleri |
 |---|---|---|
-| Baş Mimar | `solution-architect` | Lider, HLD, ADR, üst düzey çizimler |
-| Solution Designer | `solution-designer` | LLD, ayrıntılı çizimler |
-| Java Uzmanı | `java-expert` | Uygulanabilirlik, teknoloji, çaba |
-| Kafka Uzmanı | `kafka-expert` | Olay tasarımı, Kafka ayarları |
-| Test Uzmanı | `test-expert` | Test edilebilirlik, ölçülebilirlik |
-| OpenShift Uzmanı | `openshift-expert` | Dağıtım, kapasite, işletim |
+| Baş Mimar | `solution-architect` | Lider; karar matrisi, ADR, HLD, grooming kaydı |
+| Solution Designer | `solution-designer` | Kapsam, API, veri modeli, akışlar, güvenlik, açık sorular; LLD editörü |
+| Java Uzmanı | `java-expert` | Servis ve modül yapısı, yapılandırma, uygulama adımları |
+| Kafka Uzmanı | `kafka-expert` | Topic ve olay şemaları, hata ve yeniden deneme |
+| Test Uzmanı | `test-expert` | Test yaklaşımı |
+| OpenShift Uzmanı | `openshift-expert` | OpenShift kaynakları, gözlemlenebilirlik |
+
+Her konu HLD'den sonra bütün ekiple groom edilir; herkes görüşünü söyler ve LLD'nin kendi bölümünü yazar.
 
 ## Kurulum
 ```bash
