@@ -66,15 +66,15 @@
 <rect x="556.7" y="430.9" width="156" height="80" rx="9" fill="#ffffff" stroke="#8a8a92" stroke-width="1.4" stroke-dasharray="4 3"/>
 <rect x="613.7" y="437.9" width="42" height="25" rx="3" fill="#f1f1f3" stroke="#8a8a92" stroke-dasharray="4 3"/>
 <text x="634.7" y="455.4" text-anchor="middle" font-size="12.5" font-weight="700" style="font-family:ui-monospace,Menlo,monospace" fill="#3f3f46">{ }</text>
-<text x="634.7" y="480.9" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">LLD Birleştirme</text>
-<text x="634.7" y="497.9" text-anchor="middle" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">betik · 0 token</text>
+<text x="634.7" y="480.9" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Doküman, LLD</text>
+<text x="634.7" y="497.9" text-anchor="middle" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">okur, birleştirir · 0 token</text>
 </g>
 <g class="sway" style="animation-duration:6.70s;animation-delay:-4.2s">
 <rect x="287.3" y="430.9" width="156" height="80" rx="9" fill="#ffffff" stroke="#8a8a92" stroke-width="1.4" stroke-dasharray="4 3"/>
 <rect x="344.3" y="437.9" width="42" height="25" rx="3" fill="#f1f1f3" stroke="#8a8a92" stroke-dasharray="4 3"/>
 <text x="365.3" y="455.4" text-anchor="middle" font-size="12.5" font-weight="700" style="font-family:ui-monospace,Menlo,monospace" fill="#3f3f46">{ }</text>
 <text x="365.3" y="480.9" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Belge Kontrolü</text>
-<text x="365.3" y="497.9" text-anchor="middle" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">betik · 0 token</text>
+<text x="365.3" y="497.9" text-anchor="middle" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">paket tam mı · 0 token</text>
 </g>
 <g class="sway" style="animation-duration:7.05s;animation-delay:-4.9s">
 <rect x="96.8" y="337.8" width="156" height="80" rx="9" fill="#ffffff" stroke="#8a8a92" stroke-width="1.4" stroke-dasharray="4 3"/>
@@ -83,38 +83,38 @@
 <text x="174.8" y="387.8" text-anchor="middle" font-size="13" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Çizim Kontrolü</text>
 <text x="174.8" y="404.8" text-anchor="middle" font-size="11" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">betik · 0 token</text>
 </g>
-<text x="500.0" y="536.0" text-anchor="middle" font-size="12.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Her konu aynı yoldan geçer</text>
+<text x="500.0" y="536.0" text-anchor="middle" font-size="12.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Tek komut: /agile-team:mimar &lt;doküman klasörü&gt;</text>
 <rect x="41.0" y="548" width="106" height="46" rx="7" fill="#f1f1f3" stroke="#c9c9ce"/>
 <text x="94.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">1</text>
-<text x="94.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Netleştirme</text>
+<text x="94.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Dokümanlar</text>
 <path d="M148.0 567l7 4l-7 4z" fill="#8a8a92"/>
 <rect x="157.0" y="548" width="106" height="46" rx="7" fill="#f1f1f3" stroke="#c9c9ce"/>
 <text x="210.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">2</text>
-<text x="210.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Neyi, nasıl, ne ile</text>
+<text x="210.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Grooming</text>
 <path d="M264.0 567l7 4l-7 4z" fill="#8a8a92"/>
 <rect x="273.0" y="548" width="106" height="46" rx="7" fill="#c8102e" stroke="#c8102e"/>
 <text x="326.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffe3e7">3</text>
-<text x="326.0" y="581.0" text-anchor="middle" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Senin onayın</text>
+<text x="326.0" y="581.0" text-anchor="middle" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Senin tamamın</text>
 <path d="M380.0 567l7 4l-7 4z" fill="#8a8a92"/>
 <rect x="389.0" y="548" width="106" height="46" rx="7" fill="#f1f1f3" stroke="#c9c9ce"/>
 <text x="442.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">4</text>
-<text x="442.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">HLD ve çizim</text>
+<text x="442.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Mimari çizim</text>
 <path d="M496.0 567l7 4l-7 4z" fill="#8a8a92"/>
-<rect x="505.0" y="548" width="106" height="46" rx="7" fill="#c8102e" stroke="#c8102e"/>
-<text x="558.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffe3e7">5</text>
-<text x="558.0" y="581.0" text-anchor="middle" font-size="12" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#ffffff">Grooming</text>
+<rect x="505.0" y="548" width="106" height="46" rx="7" fill="#f1f1f3" stroke="#c9c9ce"/>
+<text x="558.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">5</text>
+<text x="558.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">UML tasarım</text>
 <path d="M612.0 567l7 4l-7 4z" fill="#8a8a92"/>
 <rect x="621.0" y="548" width="106" height="46" rx="7" fill="#f1f1f3" stroke="#c9c9ce"/>
 <text x="674.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">6</text>
-<text x="674.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">LLD bölümleri</text>
+<text x="674.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">HLD</text>
 <path d="M728.0 567l7 4l-7 4z" fill="#8a8a92"/>
 <rect x="737.0" y="548" width="106" height="46" rx="7" fill="#f1f1f3" stroke="#c9c9ce"/>
 <text x="790.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">7</text>
-<text x="790.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Birleştir, oku</text>
+<text x="790.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">LLD</text>
 <path d="M844.0 567l7 4l-7 4z" fill="#8a8a92"/>
 <rect x="853.0" y="548" width="106" height="46" rx="7" fill="#f1f1f3" stroke="#c9c9ce"/>
 <text x="906.0" y="563.0" text-anchor="middle" font-size="10.5" font-weight="700" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">8</text>
-<text x="906.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Betik kontrolü</text>
+<text x="906.0" y="581.0" text-anchor="middle" font-size="12" font-weight="500" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#1d1d20">Son kontrol</text>
 <rect x="186" y="633" width="16" height="13" rx="3" fill="#ffffff" stroke="#c8102e" stroke-width="1.4"/>
 <text x="209.0" y="644.0" text-anchor="start" font-size="12" font-weight="400" style="font-family:ui-sans-serif,-apple-system,'Segoe UI',sans-serif" fill="#6b6b73">Yapay zekâ ajanı: grooming görüşü, kendi LLD bölümü</text>
 <rect x="552.4000000000001" y="633" width="16" height="13" rx="3" fill="#ffffff" stroke="#8a8a92" stroke-width="1.4" stroke-dasharray="3 2"/>

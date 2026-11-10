@@ -18,7 +18,7 @@ Bu ekip kod yazmaz. Çözüm Mimarı'nın danışma kuruludur: neyi, nasıl ve n
 | Test Uzmanı | `test-expert` | Test yaklaşımı |
 | OpenShift Uzmanı | `openshift-expert` | OpenShift kaynakları, gözlemlenebilirlik |
 
-Her konu HLD'den sonra bütün ekiple groom edilir; herkes görüşünü söyler ve LLD'nin kendi bölümünü yazar.
+Her iş, dokümanlar üzerinde bütün ekiple groom edilir; herkes görüşünü söyler ve LLD'nin kendi bölümünü yazar.
 
 ## Kurulum
 ```bash
@@ -34,7 +34,17 @@ claude plugin update agile-team@agile-team-local
 ```
 
 ## Kullanım
-Çalışma klasöründe `/agile-team:mimar <konu>` yaz. Çıktılar `docs/architecture/` altına yazılır.
+Dokümanları bir klasöre koy ve tek komut yaz:
+
+```text
+/agile-team:mimar <doküman klasörü> [iş adı]
+```
+
+1. Ekip dokümanları okur, herkes yorumunu getirir.
+2. Çözüm Mimarı yorumları ve kararları gösterir, sen **tamam** diyene kadar bekler.
+3. Sonra sırayla: mimari çizim, UML tasarım, HLD, LLD, son kontrol.
+
+Çıktılar `docs/architecture/` altına yazılır.
 
 ## Gizlilik
 Depo özeldir. Çizimler yalnızca yerel `.drawio` dosyası olarak üretilir, uzak bir servise gönderilmez. Şirkete ait kod, müşteri verisi ve gizli anahtar bu depoya konmaz.
